@@ -6,9 +6,8 @@ for x in range(4):
         turtle.forward(100)
         turtle.right(45)
     turtle.end_fill()
-
-    turtle.penup()
-    turtle.forward(300)
+turtle.penup()
+turtle.forward(200)
     turtle.pendown()
 
 
